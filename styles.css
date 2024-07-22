@@ -1,0 +1,99 @@
+.titulo1 {
+
+    color: #361212;
+    text-align: center;
+    font-style: italic;
+    padding-left: 40px;
+
+}
+
+.camisainicial {
+
+    height: 700px;
+    right: 700px;
+    padding-left: 900px;
+    padding-right: 1px;
+}
+
+.alunos {
+    text-align: center;
+}
+
+.listahobbies {
+    list-style: circle;
+    list-style-position: inside;
+    text-align: center;
+    font-size: x-large;
+}
+
+.textocentro {
+    font-size: x-large;
+    text-align: center;
+
+}
+
+.logomarca {
+
+    height: 100px;
+    right: 100px;
+    padding-left: 0px;
+}
+
+.logomarcape {
+
+    height: 250px;
+    right: 250px;
+    padding-left: 700px;
+}
+
+.navbar {
+    border-radius: 30px;
+    height: 50px;
+
+
+}
+
+.container-fluid {
+    background-color: rgb(202, 200, 197);
+    border-radius: 10px;
+}
+
+.video {
+    height: 500px;
+    right: 500px;
+    padding-left: 370px;
+}
+
+.navbar-brand {
+    background-color: rgb(253, 252, 251);
+    border-radius: 40px;
+    height: px;
+    box-shadow: 5px;
+}
+
+.logorodape {
+
+    height: 20px
+}
+
+.carrossel {
+    float: right;
+    display: flex;
+    margin: auto;
+    position: absolute;
+}
+
+
+.descrição1 {
+
+    font-size: x-large;
+    height: 10px;
+    right: 10px;
+    text-align: center;
+
+}
+
+.confirmar {
+
+    background-color: rgb(211, 211, 211);
+}
